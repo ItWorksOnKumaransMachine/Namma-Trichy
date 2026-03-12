@@ -1,12 +1,3 @@
-# NodePay
-
-### Networkless Peer-to-Peer Digital Payments via Device Mesh Networks
-
-NodePay is a research prototype exploring **infrastructure-free digital payments**.
-It enables devices to exchange financial value **without internet connectivity** using **device-to-device communication and mesh networking**.
-
-The system combines **cryptography, distributed networking, and offline digital tokens** to build a payment architecture capable of operating in **disaster zones, rural environments, and disconnected networks**.
-
 <h1 align="center">NodePay</h1>
 <p align="center">
 Networkless Peer-to-Peer Digital Payments
@@ -26,7 +17,6 @@ Device-to-Device • Mesh Networking • Offline Tokens • Cryptographic Securi
 <img src="https://img.shields.io/badge/network-mesh-orange">
 <img src="https://img.shields.io/badge/payments-offline-purple">
 </p>
----
 
 # Why NodePay?
 
