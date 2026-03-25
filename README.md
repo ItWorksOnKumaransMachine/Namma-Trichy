@@ -6,7 +6,7 @@
 
 ## Overview
 
-ONE TRICHY is a full-stack web application designed to unify urban mobility and city exploration into a single, cohesive platform. Inspired by modern multimodal transport systems, it integrates route planning, ticketing, mapping, and immersive city discovery into one interface.
+NAMMA TRICHY is a full-stack web application designed to unify urban mobility and city exploration into a single, cohesive platform. Inspired by modern multimodal transport systems, it integrates route planning, ticketing, mapping, and immersive city discovery into one interface.
 
 The platform combines transport infrastructure with a cinematic user experience, delivering both functionality and visual depth.
 
